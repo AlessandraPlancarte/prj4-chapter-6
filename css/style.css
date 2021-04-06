@@ -1,0 +1,54 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body{
+	font-family: Viga;
+	margin-left: 20px;
+	margin-right: auto;
+}
+
+h1{
+	font-family: Viga;
+	color:#DCACCA;}
+
+.nav, .nabvar-nav, .nav-link {
+	background-color: white;
+	font-family: Viga;
+	color: black;
+	flex: 1;
+}
+
+.main{
+	font-family: Viga;
+	color: black;
+	font-size: 20px;
+	text-align:left;
+	align-items: center;
+	margin: auto;
+}
+
+.jumbotron, .jumbotron-fluid, .container{
+	background-color: white;
+	align-content: center;
+	padding: 20px;
+	margin:auto;
+}
+
+.captions{
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+	font-family: Viga;
+	font-size: 20px;
+}
+
+footer{
+	text-align: center;
+	font-family: Viga;
+	color: black;
+	font-size: 14px;
+}
+  
+
+
+
+
